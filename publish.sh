@@ -7,7 +7,7 @@ sleep 1s
 
 # Run `hugo`
 echo "===Running hugo"
-hugo
+hugo --minify --destination docs
 sleep 1s
 
 # Add all changes with `git add -A`
