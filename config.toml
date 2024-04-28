@@ -5,6 +5,8 @@ copyright = "Copyright © 2024, D&D; all rights reserved."
 paginate = 50
 languageCode = "en"
 DefaultContentLanguage = "en"
+baseurl = "https://dearbojack.github.io/decode"
+
 
 # disqusShortname = 'dearbojack'   # use disqus comments
 
