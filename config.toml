@@ -1,0 +1,45 @@
+theme = "paper"
+title = "Digitopia"
+author = "xsmk"
+copyright = "Copyright © 2024, D&D; all rights reserved."
+paginate = 50
+languageCode = "en"
+DefaultContentLanguage = "en"
+
+# disqusShortname = 'dearbojack'   # use disqus comments
+
+[params]
+  # color style
+  color = 'wheat'                           # linen, wheat, gray, light
+
+  # header social icons
+  # twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
+  github = 'YOUR_GITHUB_ID'                 # github.com/YOUR_GITHUB_ID
+  # instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
+  # linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
+  mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
+  # threads = '@YOUR_THREADS_ID'              # threads.net/@YOUR_THREADS_ID
+  rss = true                                # show rss icon
+
+  # home page profile
+  # avatar = 'https://abs-0.twimg.com/emoji/v2/svg/1f605.svg'
+  name = '太阳系第三行星の赛博不夜城'
+  bio = 'Just enjoy the show.'
+
+  # misc
+  disableHLJS = false                        # disable highlight.js
+  disablePostNavigation = false              # disable post navigation
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  # gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  # math = true                               # enable KaTeX math typesetting globally
+  # graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+
+  # giscus
+# [params.giscus]
+#   repo = 'YOUR_GISCUS_REPO'                 # see https://giscus.app for more details
+#   repoId = 'YOUR_GISCUS_REPO_ID'
+#   category = 'YOUR__GISCUS_CATEGORY'
+#   categoryId = 'YOUR_GISCUS_CATEGORY_ID'
+#   mapping = 'pathname'
+#   theme = 'light'
+#   lang = 'zh-CN'
