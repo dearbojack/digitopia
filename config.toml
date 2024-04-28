@@ -6,6 +6,7 @@ paginate = 50
 languageCode = "en"
 DefaultContentLanguage = "en"
 baseurl = "https://dearbojack.github.io/digitopia"
+publishDir = "docs"
 
 
 # disqusShortname = 'dearbojack'   # use disqus comments
