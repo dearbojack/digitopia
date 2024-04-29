@@ -16,18 +16,18 @@ publishDir = "docs"
   color = 'wheat'                           # linen, wheat, gray, light
 
   # header social icons
-  # twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
-  github = 'YOUR_GITHUB_ID'                 # github.com/YOUR_GITHUB_ID
+  twitter = 'dearmaxi'               # twitter.com/YOUR_TWITTER_ID?
+  # github = 'YOUR_GITHUB_ID'                 # github.com/YOUR_GITHUB_ID
   # instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
   # linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
-  mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
+  # mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
   # threads = '@YOUR_THREADS_ID'              # threads.net/@YOUR_THREADS_ID
   rss = true                                # show rss icon
 
   # home page profile
   # avatar = 'https://abs-0.twimg.com/emoji/v2/svg/1f605.svg'
-  name = '太阳系第三行星の赛博不夜城'
-  bio = 'Just enjoy the show.'
+  name = '太阳系第三行星 の 赛博不夜村 ル'
+  bio = 'What else is there to do but to revel in this sh*tshow?'
 
   # misc
   disableHLJS = false                        # disable highlight.js
