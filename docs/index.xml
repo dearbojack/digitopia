@@ -7,28 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2024, D&amp;D; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dearbojack.github.io/digitopia/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello There</title>
-      <link>https://dearbojack.github.io/digitopia/posts/2024-04-28-hello-there/</link>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://dearbojack.github.io/digitopia/posts/2024-04-28-hello-there/</guid>
-      <description> </description>
+      <title>干细胞捐献</title>
+      <link>https://dearbojack.github.io/digitopia/posts/2024-05-01-stem-cell-donation/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://dearbojack.github.io/digitopia/posts/2024-05-01-stem-cell-donation/</guid>
+      <description>中午的翻译，伦敦的电话，不到二十分钟就结束了。一个女生配型成功了，但是她说自己身体比较虚弱，家里人有点担心她身体受不住。最后让中心这边 block 了三年，说是等她身体恢复之后再打开配型。&#xA;伦敦这边说，即便是同意走流程，真正开始之前也会有医疗团队对她的身体进行全面的检查的，如果捐献对她的身体有大的影响，也绝对不会强求的。&#xA;女生那边很多噪音，听不太清楚，好像是个咖啡馆，中间还和别人说笑，在噪音里面努力听清伦敦那边的声音，费劲，听得冒汗。&#xA;配型成功 - successful match&#xA;配型(HLA Typing)是指检测人类细胞表面的人类白细胞抗原(Human Leukocyte Antigens, HLA)的类型和排列方式。它在干细胞移植中扮演着非常重要的角色。</description>
     </item>
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://dearbojack.github.io/digitopia/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://dearbojack.github.io/digitopia/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <title>像演员一样生活</title>
+      <link>https://dearbojack.github.io/digitopia/posts/2024-05-01-act/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://dearbojack.github.io/digitopia/posts/2024-05-01-act/</guid>
+      <description>像演员一样生活&#xA;最近跟着家里人看一个演员类的综艺节目《无限超越班》。有几个学员演得让人难为情。看不下去，几个导师演得入木三分。确实厉害。有个学员自我介绍的时候紧张，下面坐着的导师就说她，「你是个演员啊，你就现在给我演一个不紧张的人。」&#xA;这个角度有意思。每个人都会觉得有些事情很难，那换个角度想，现在要让你当一个演员，一个很擅长做那些你觉得很难的事情的演员，你可以当好这样一个演员吗？我讨厌上班，讨厌面试，一到面试就紧张，可以演一个不紧张的面试者吗？&#xA;Fake it till you make it.&#xA;是个不错的应对心理问题的办法。至少可以试试，对吧。</description>
     </item>
     <item>
-      <title>Code Syntax Guide</title>
-      <link>https://dearbojack.github.io/digitopia/posts/code_syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://dearbojack.github.io/digitopia/posts/code_syntax/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+      <title>Hello World</title>
+      <link>https://dearbojack.github.io/digitopia/posts/2024-04-29-hello-world/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://dearbojack.github.io/digitopia/posts/2024-04-29-hello-world/</guid>
+      <description>This is the first user-created post to test if everything is working properly.&#xA;Thank god, it is.&#xA;Oh, yes!</description>
     </item>
     <item>
       <title>Archive</title>
